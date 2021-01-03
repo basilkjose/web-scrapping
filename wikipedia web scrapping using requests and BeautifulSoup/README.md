@@ -7,7 +7,8 @@ For this problem we have use wikipedia covid_19 page [link](https://en.wikipedia
   <img src="Screenshot (44).png" width="350" title="hover text">
  
 </p>
-### Table after scraped
+
+## Table after scraped
 <p align="center">
   <img src="Screenshot (48).png" width="350" title="hover text">
  
