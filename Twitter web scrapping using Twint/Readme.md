@@ -10,3 +10,15 @@ Here are some of the benefits
   * Can be used anonymously without Twitter sign-up.
   * It’s free!! No pricing limitations.
   * Provides easy to use options to store scraped tweets into different formats — CSV, JSON, SQLite, and Elasticsearch.
+
+
+<p align="center">
+  <img src="Screenshot (139).png" width="350" title="hover text">
+ 
+</p>
+
+### Table to be scraped
+<p align="center">
+  <img src="Screenshot (140).png" width="350" title="hover text">
+ 
+</p>
