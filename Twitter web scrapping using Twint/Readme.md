@@ -14,7 +14,7 @@ Here are some of the benefits
 ## Configuration Options
 
 <p align="center">
-  <img src="Screenshot (139).png" width="900" title="hover text"><img src="Screenshot (141).png" width="900" title="hover text">
+  <img src="Screenshot (139).png" width="875" title="hover text"><img src="Screenshot (141).png" width="900" title="hover text">
  
 </p>
 
