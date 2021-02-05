@@ -11,14 +11,12 @@ Here are some of the benefits
   * It’s free!! No pricing limitations.
   * Provides easy to use options to store scraped tweets into different formats — CSV, JSON, SQLite, and Elasticsearch.
 
+## Configuration Options
 
 <p align="center">
   <img src="Screenshot (139).png" width="800" title="hover text">
  
-</p>
-
-### Table to be scraped
-<p align="center">
-  <img src="Screenshot (141).png" width="800" title="hover text">
+   <img src="Screenshot (141).png" width="800" title="hover text">
  
 </p>
+
