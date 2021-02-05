@@ -13,12 +13,12 @@ Here are some of the benefits
 
 
 <p align="center">
-  <img src="Screenshot (139).png" width="350" title="hover text">
+  <img src="Screenshot (139).png" width="800" title="hover text">
  
 </p>
 
 ### Table to be scraped
 <p align="center">
-  <img src="Screenshot (140).png" width="350" title="hover text">
+  <img src="Screenshot (141).png" width="800" title="hover text">
  
 </p>
