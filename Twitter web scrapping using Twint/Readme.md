@@ -1,5 +1,4 @@
-## [Twint](https://github.com/twintproject/twint)
-BLOG -[link](https://basilkjose.medium.com/twint-twitter-scraping-without-twitters-api-aca8ba1b210e)
+You can find my blog on this link [Twint: Twitter Scraping Without Twitter’s API](https://basilkjose.medium.com/twint-twitter-scraping-without-twitters-api-aca8ba1b210e)
 
 Twint is an advanced tool for Twitter scrapping. We can use this tool to scrape any user’s followers, following, tweets, etc. without having to use Twitter API.Twint is an advanced Twitter scraping tool written in Python that allows for scraping Tweets from Twitter profiles without using Twitter's API.
 
